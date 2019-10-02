@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mbreault/Pipelines-Java/_apis/build/status/mbreault.pipelines-java?branchName=master)](https://dev.azure.com/mbreault/Pipelines-Java/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
